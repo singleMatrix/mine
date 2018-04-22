@@ -1,0 +1,76 @@
+Manifest-Version: 1.0
+Class-Path: hadoop-yarn-server-web-proxy-2.7.3.jar hadoop-mapreduce-cl
+ ient-app-2.7.3.jar xz-1.0.jar asm-3.2.jar guice-3.0.jar guava-11.0.2.
+ jar jettison-1.1.jar jetty-6.1.26.jar jsr305-3.0.0.jar log4j-1.2.17.j
+ ar activation-1.1.jar commons-io-2.4.jar javax.inject-1.jar jaxb-api-
+ 2.2.2.jar stax-api-1.0-2.jar aopalliance-1.0.jar commons-cli-1.2.jar 
+ jersey-core-1.9.jar jersey-json-1.9.jar servlet-api-2.5.jar zookeeper
+ -3.4.6.jar commons-lang-2.6.jar jersey-guice-1.9.jar commons-codec-1.
+ 4.jar guice-servlet-3.0.jar jackson-xc-1.9.13.jar jaxb-impl-2.2.3-1.j
+ ar jersey-client-1.9.jar jersey-server-1.9.jar jetty-util-6.1.26.jar 
+ netty-3.6.2.Final.jar leveldbjni-all-1.8.jar protobuf-java-2.5.0.jar 
+ jackson-jaxrs-1.9.13.jar commons-logging-1.1.3.jar zookeeper-3.4.6-te
+ sts.jar commons-compress-1.4.1.jar jackson-core-asl-1.9.13.jar common
+ s-collections-3.2.2.jar jackson-mapper-asl-1.9.13.jar hadoop-mapreduc
+ e-client-common-2.7.3.jar hadoop-yarn-api-2.7.3.jar hadoop-yarn-commo
+ n-2.7.3.jar xz-1.0.jar asm-3.2.jar avro-1.7.4.jar gson-2.2.4.jar juni
+ t-4.11.jar jsch-0.1.42.jar jsp-api-2.1.jar xmlenc-0.52.jar guava-11.0
+ .2.jar jets3t-0.9.0.jar jettison-1.1.jar jetty-6.1.26.jar jsr305-3.0.
+ 0.jar log4j-1.2.17.jar paranamer-2.3.jar activation-1.1.jar commons-i
+ o-2.4.jar httpcore-4.2.5.jar jaxb-api-2.2.2.jar stax-api-1.0-2.jar co
+ mmons-cli-1.2.jar commons-net-3.1.jar jersey-core-1.9.jar jersey-json
+ -1.9.jar joda-time-2.9.4.jar servlet-api-2.5.jar zookeeper-3.4.6.jar 
+ commons-lang-2.6.jar hadoop-ant-2.7.3.jar hadoop-aws-2.7.3.jar hadoop
+ -sls-2.7.3.jar httpclient-4.2.5.jar commons-codec-1.4.jar hadoop-auth
+ -2.7.3.jar hamcrest-core-1.3.jar jackson-xc-1.9.13.jar jaxb-impl-2.2.
+ 3-1.jar jersey-server-1.9.jar jetty-util-6.1.26.jar mockito-all-1.8.5
+ .jar netty-3.6.2.Final.jar api-util-1.0.0-M20.jar aws-java-sdk-1.7.4.
+ jar hadoop-azure-2.7.3.jar hadoop-rumen-2.7.3.jar jackson-core-2.2.3.
+ jar metrics-core-3.0.1.jar azure-storage-2.0.0.jar commons-lang3-3.3.
+ 2.jar commons-math3-3.1.1.jar hadoop-distcp-2.7.3.jar hadoop-extras-2
+ .7.3.jar java-xmlbuilder-0.4.jar protobuf-java-2.5.0.jar snappy-java-
+ 1.0.4.1.jar commons-digester-1.8.jar curator-client-2.7.1.jar hadoop-
+ gridmix-2.7.3.jar jackson-jaxrs-1.9.13.jar commons-logging-1.1.3.jar 
+ curator-recipes-2.7.1.jar hadoop-archives-2.7.3.jar hadoop-datajoin-2
+ .7.3.jar api-asn1-api-1.0.0-M20.jar commons-compress-1.4.1.jar common
+ s-httpclient-3.1.jar hadoop-openstack-2.7.3.jar hadoop-streaming-2.7.
+ 3.jar jackson-databind-2.2.3.jar apacheds-i18n-2.0.0-M15.jar commons-
+ beanutils-1.7.0.jar curator-framework-2.7.1.jar jackson-core-asl-1.9.
+ 13.jar commons-collections-3.2.2.jar commons-configuration-1.6.jar ja
+ ckson-annotations-2.2.3.jar jackson-mapper-asl-1.9.13.jar commons-bea
+ nutils-core-1.8.0.jar htrace-core-3.1.0-incubating.jar apacheds-kerbe
+ ros-codec-2.0.0-M15.jar hadoop-mapreduce-client-core-2.7.3.jar hadoop
+ -yarn-client-2.7.3.jar hadoop-yarn-server-applicationhistoryservice-2
+ .7.3.jar hadoop-yarn-server-resourcemanager-2.7.3.jar hadoop-yarn-ser
+ ver-common-2.7.3.jar hadoop-nfs-2.7.3.jar hadoop-common-2.7.3.jar had
+ oop-yarn-server-nodemanager-2.7.3.jar hadoop-yarn-server-tests-2.7.3.
+ jar hadoop-yarn-applications-unmanaged-am-launcher-2.7.3.jar hadoop-y
+ arn-applications-distributedshell-2.7.3.jar hadoop-mapreduce-client-j
+ obclient-2.7.3.jar commons-logging-1.1.3.jar hadoop-common-2.7.3-test
+ s.jar hadoop-yarn-server-sharedcachemanager-2.7.3.jar xz-1.0.jar asm-
+ 3.2.jar avro-1.7.4.jar gson-2.2.4.jar junit-4.11.jar jsch-0.1.42.jar 
+ jsp-api-2.1.jar xmlenc-0.52.jar guava-11.0.2.jar jets3t-0.9.0.jar jet
+ tison-1.1.jar jetty-6.1.26.jar jsr305-3.0.0.jar log4j-1.2.17.jar para
+ namer-2.3.jar activation-1.1.jar commons-io-2.4.jar httpcore-4.2.5.ja
+ r jaxb-api-2.2.2.jar stax-api-1.0-2.jar commons-cli-1.2.jar commons-n
+ et-3.1.jar jersey-core-1.9.jar jersey-json-1.9.jar servlet-api-2.5.ja
+ r zookeeper-3.4.6.jar commons-lang-2.6.jar httpclient-4.2.5.jar slf4j
+ -api-1.7.10.jar commons-codec-1.4.jar hadoop-auth-2.7.3.jar hamcrest-
+ core-1.3.jar jackson-xc-1.9.13.jar jaxb-impl-2.2.3-1.jar jersey-serve
+ r-1.9.jar jetty-util-6.1.26.jar mockito-all-1.8.5.jar netty-3.6.2.Fin
+ al.jar api-util-1.0.0-M20.jar commons-math3-3.1.1.jar java-xmlbuilder
+ -0.4.jar protobuf-java-2.5.0.jar snappy-java-1.0.4.1.jar commons-dige
+ ster-1.8.jar curator-client-2.7.1.jar jackson-jaxrs-1.9.13.jar slf4j-
+ log4j12-1.7.10.jar commons-logging-1.1.3.jar curator-recipes-2.7.1.ja
+ r api-asn1-api-1.0.0-M20.jar commons-compress-1.4.1.jar commons-httpc
+ lient-3.1.jar apacheds-i18n-2.0.0-M15.jar commons-beanutils-1.7.0.jar
+  curator-framework-2.7.1.jar jackson-core-asl-1.9.13.jar hadoop-annot
+ ations-2.7.3.jar commons-collections-3.2.2.jar commons-configuration-
+ 1.6.jar jackson-mapper-asl-1.9.13.jar commons-beanutils-core-1.8.0.ja
+ r htrace-core-3.1.0-incubating.jar apacheds-kerberos-codec-2.0.0-M15.
+ jar hadoop-mapreduce-client-shuffle-2.7.3.jar hadoop-mapreduce-client
+ -hs-2.7.3.jar hadoop-yarn-registry-2.7.3.jar hadoop-mapreduce-client-
+ hs-plugins-2.7.3.jar hadoop-mapreduce-client-jobclient-2.7.3-tests.ja
+ r
+Main-Class: maxTem
+
